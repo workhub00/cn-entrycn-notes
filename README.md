@@ -1,2 +1,14 @@
 # cn-entrycn-notes
-HTML page archive and documentation
+
+HTML 发布文件仓库
+
+这里集中存放 HTML 页面，README 仅用于说明仓库用途。
+
+## 保存位置
+
+- 页面文件默认保存在仓库根目录
+- 说明文件保存在 `README.md`
+
+## 任务说明
+
+页面会按发布任务逐步生成，仓库仅保存最终文件。
